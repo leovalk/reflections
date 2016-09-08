@@ -1,0 +1,56 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    yeah that helped
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    you can find the errors easier
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    auto does not make you forget it, manual makes you save at important moments instead of random moments.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    because they serve a different purpose
+
+How can you use the commands git log and git diff to view the history of files?
+
+    by comparing the various versions
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    you know you can always quickly reverse if necessary
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    this course and eventually a project we are working on
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+it could save time when you have made mistakes and get back to where the program still worked
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+you save only valuable commits and no nonsense
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	die andere systemen zijn niet voor code files gemaakt eigenlijk
+
+How can you use the commands git log and git diff to view the history of files?
+
+	ik moet eraan denken dat de vorige commit ONDER de commit met de change zit en niet erboven. Ook moet ik ervoor zorgen dat ik weet datik met Q uit de log kan komen en controle terug krijg.
+
+How might using version control make you more confident to make changes that could break something?
+
+	Ik kan altijd rustig terug gaan zonder veel moeite naar een versie de nog werktte
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	nou ik wil voornamelijk de test afmaken voor dyscalculiaservices en samenwerken met Coen op github
+
