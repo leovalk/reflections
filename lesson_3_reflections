@@ -5,3 +5,5 @@ Why might you want to always pull changes manually rather than having Git automa
 	omdat je niet weet wat die anderen eventueel hebben gesmurft en dan wil je wellicht vorken of branchen of zo
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 	forks is als je de status van iemand anders steelt en er zelf verder mee gaat. een clone is een copie om daarna er verder mee te gaan en eventueel te delen. een branch is een afsplitsing met het doel effe wat te proberen en het dan weer in de group te brengen.
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	nou dan weet je of er veranderingen zijn die je nog niet hebt gezien
