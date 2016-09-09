@@ -7,3 +7,5 @@ Describe the differences between forks, clones, and branches. When would you use
 	forks is als je de status van iemand anders steelt en er zelf verder mee gaat. een clone is een copie om daarna er verder mee te gaan en eventueel te delen. een branch is een afsplitsing met het doel effe wat te proberen en het dan weer in de group te brengen.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	nou dan weet je of er veranderingen zijn die je nog niet hebt gezien
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	nou je kan met stickies werken dan hoef je deze brei aan instructies niet te gebruiken maar dan krijg je allerlei problemen
